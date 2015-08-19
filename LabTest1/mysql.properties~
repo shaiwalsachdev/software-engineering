@@ -1,0 +1,5 @@
+#MYSQL PROPERTIES FILE @@@@@Copyright@@@@
+#Wed Aug 05 17:30:26 IST 2015
+password=geekdon
+url=jdbc\:mysql\://localhost\:3306/labse
+username=root
